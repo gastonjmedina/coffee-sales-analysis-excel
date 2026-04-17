@@ -24,9 +24,10 @@ Organizar y transformar un dataset relacional (customers, products y orders) par
 1. Integración de datos entre múltiples hojas  
 2. Limpieza y completado de valores faltantes  
 3. Transformación de variables y creación de columnas auxiliares  
-4. Estandarización de datos categóricos  
-5. Construcción de tablas dinámicas  
-6. Desarrollo de dashboard interactivo  
+4. Estandarización de datos categóricos
+5. Formateo de datos (fechas, precios, unidades)   
+6. Construcción de tablas dinámicas  
+7. Desarrollo de dashboard interactivo  
 
 ---
 
