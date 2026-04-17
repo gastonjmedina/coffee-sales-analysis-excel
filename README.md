@@ -15,7 +15,7 @@ Organizar y transformar un dataset relacional (customers, products y orders) par
 - Tablas dinámicas  
 - Gráficos dinámicos  
 - Segmentaciones (slicers)  
-- Funciones de Excel (BUSCARX, INDICE + COINCIDIR, SI.CONJUNTO, funciones de fecha)
+- Funciones de Excel (BUSCARX, INDICE + COINCIDIR, SI.CONJUNTO, funciones de fecha, entre otras)
 
 ---
 
