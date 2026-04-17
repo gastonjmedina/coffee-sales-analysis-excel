@@ -86,4 +86,4 @@ El dataset contiene información sobre ventas de café, incluyendo:
 
 ## Nota
 
-Este proyecto fue desarrollado utilizando Microsoft Excel (Office 365), por lo cual algunas funcionalidades avanzadas de visualización o personalización pueden ser limitadas.
+Este proyecto fue desarrollado utilizando Microsoft Excel (Office 365), por lo cual algunas funcionalidades avanzadas de visualización o personalización pueden ser limitadas, lo que puede afectar el nivel de detalle estético del dashboard.
